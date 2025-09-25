@@ -55,9 +55,7 @@ To explore the impact of preprocessing on the model’s performance, two additio
 As part of the project, a **Graphical User Interface (GUI)** was developed to make the model more accessible.  
 The GUI allows users to input a sentence and receive real-time predictions for the next word.
 
-- Built in **Python**  
-- Implemented in a separate file: `gui.py`  
-- Uploaded alongside this report  
+- Built in **Python**   
 
 ### Features:
 - Input a sentence or phrase  
